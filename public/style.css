@@ -1,0 +1,19 @@
+
+h1 {
+    text-align: center;
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+}
+
+.centered {
+    display: flex;
+    flex-grow: 1;
+    justify-content: center;
+}
+
+p {
+    font-size: 24pt;
+}
